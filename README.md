@@ -1,6 +1,6 @@
 # ŞipŞak Yıkama - Mobil Öncelikli Web Sitesi
 
-Profesyonel halı yıkama firması için tasarlanmış, mobil öncelikli (mobile-first), modern ve responsive web sitesi. Şirket havası veren, profesyonel ve temiz bir tasarım.
+Profesyonel yıkama firması için tasarlanmış, mobil öncelikli (mobile-first), modern ve responsive web sitesi. Şirket havası veren, profesyonel ve temiz bir tasarım.
 
 ## Özellikler
 
@@ -92,4 +92,5 @@ Bu proje özel kullanım için hazırlanmıştır.
 - E-posta adresini kendi adresinizle değiştirin
 - Sosyal medya linklerini kendi hesaplarınızla güncelleyin
 - Google Maps entegrasyonu için kendi harita embed kodunuzu ekleyin
+
 
